@@ -1,6 +1,7 @@
+(https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/1633670437564.jpg?fbclid=IwAR2cNvA3h5MYxEvsMs8RzR6VepNQfuahP5V2oQskyboLGCFxBxGzKRyC51w)
 ### Hi there 👋, my name is Sazzad
 #### I am web developer
-![I am web developer](https://raw.githubusercontent.com/Tmmahi/mahi.github.io/main/assets/img/1633670437564.jpg?fbclid=IwAR2cNvA3h5MYxEvsMs8RzR6VepNQfuahP5V2oQskyboLGCFxBxGzKRyC51w)
+![I am web developer]
 
 I am full-stack web developer.Is a person who can develop both client and server software.
 
